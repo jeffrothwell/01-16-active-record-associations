@@ -1,0 +1,2 @@
+class Veternarian < ApplicationRecord
+end
