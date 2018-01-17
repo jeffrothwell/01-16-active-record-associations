@@ -1,0 +1,11 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  deliver_address: MyString
+  deliver_time: 2018-01-17 10:58:06
+  user_id: 1
+
+two:
+  deliver_address: MyString
+  deliver_time: 2018-01-17 10:58:06
+  user_id: 1
